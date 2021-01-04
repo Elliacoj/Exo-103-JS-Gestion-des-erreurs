@@ -5,5 +5,5 @@ try {
 }
 
 catch (e) {
-    alert("L'élement " + e.message + " n'existe pas!");
+    alert("L'élement n'existe pas!");
 }
